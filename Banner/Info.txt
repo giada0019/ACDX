@@ -1,0 +1,6 @@
+Short Name "ACDoubleDX"
+Long Name "Animal CCrossing Double Deluxe"
+Short Maker "Nintendo"
+Long Maker "Nintendo, GIADA Studios, and Cuyler36"
+Description "A Truly Deluxe game that continues whether you're playing
+Or not!"
